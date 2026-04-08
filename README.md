@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
-# I'm a Mechanical Engineer and Machine Learning Engineer passionate about solving real-world problems using **Machine Learning**, **Process Optimization**, and **Sustainable Manufacturing**. I enjoy building practical solutions, whether it's streamlining production processes, designing ML pipelines, or creating innovative software projects.  <br><br>- 🌱 Currently exploring **AI-driven solutions for environmental sustainability** and **virtual try-on applications**.  <br>- 💻 Skilled in **Python**, **SQL**, **Flask**, **ML Models**, **Tableau**, **Kubernetes**, **Dockers**, **MLOps**, and **data visualization**.  <br>- ⚡ Fun fact: I play as a striker and captain for my local football team.  <br><br>I love collaborating on challenging projects and sharing knowledge. Feel free to explore my repositories and reach out if you want to work together!  <br><br>---
+## 💫 About Me:
+#### I'm a Mechanical Engineer and Machine Learning Engineer passionate about solving real-world problems using **Machine Learning**, **Process Optimization**, and **Sustainable Manufacturing**. I enjoy building practical solutions, whether it's streamlining production processes, designing ML pipelines, or creating innovative software projects.  <br><br>- 🌱 Currently exploring **AI-driven solutions for environmental sustainability** and **virtual try-on applications**.  <br>- 💻 Skilled in **Python**, **SQL**, **Flask**, **ML Models**, **Tableau**, **Kubernetes**, **Dockers**, **MLOps**, and **data visualization**.  <br>- ⚡ Fun fact: I play as a striker and captain for my local football team.  <br><br>I love collaborating on challenging projects and sharing knowledge. Feel free to explore my repositories and reach out if you want to work together!  <br><br>---
 
 
 ## 🌐 Socials:
